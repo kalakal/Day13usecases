@@ -1,0 +1,14 @@
+E:\bridgelab\MaxOf3\bin\Debug\netcoreapp3.1\MaxOf3.exe
+E:\bridgelab\MaxOf3\bin\Debug\netcoreapp3.1\MaxOf3.deps.json
+E:\bridgelab\MaxOf3\bin\Debug\netcoreapp3.1\MaxOf3.runtimeconfig.json
+E:\bridgelab\MaxOf3\bin\Debug\netcoreapp3.1\MaxOf3.runtimeconfig.dev.json
+E:\bridgelab\MaxOf3\bin\Debug\netcoreapp3.1\MaxOf3.dll
+E:\bridgelab\MaxOf3\bin\Debug\netcoreapp3.1\MaxOf3.pdb
+E:\bridgelab\MaxOf3\obj\Debug\netcoreapp3.1\MaxOf3.csproj.AssemblyReference.cache
+E:\bridgelab\MaxOf3\obj\Debug\netcoreapp3.1\MaxOf3.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\MaxOf3\obj\Debug\netcoreapp3.1\MaxOf3.AssemblyInfoInputs.cache
+E:\bridgelab\MaxOf3\obj\Debug\netcoreapp3.1\MaxOf3.AssemblyInfo.cs
+E:\bridgelab\MaxOf3\obj\Debug\netcoreapp3.1\MaxOf3.csproj.CoreCompileInputs.cache
+E:\bridgelab\MaxOf3\obj\Debug\netcoreapp3.1\MaxOf3.dll
+E:\bridgelab\MaxOf3\obj\Debug\netcoreapp3.1\MaxOf3.pdb
+E:\bridgelab\MaxOf3\obj\Debug\netcoreapp3.1\MaxOf3.genruntimeconfig.cache
